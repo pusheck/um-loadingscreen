@@ -13,11 +13,8 @@ F9 - Konfiguracja HUD`u
 3 - Trzeci slot w ekwipunku
 4 - Czwarty slot w ekwipunku
 5 - Piąty slot w ekwipunku
-6 - Minijobk`a dla Funkcjonariuszy (zarówno na nogach jak i w pojeździe)
+6 - Minijobka dla Funkcjonariuszy (zarówno na nogach jak i w pojeździe)
 7 - Wywołanie czynności na pedzie (minijobka dla Funkcjonariuszy)
-8 - Laser (tylko administracja serwera)
-9 - No clip (tylko administracja serwera)
-0 - Admin menu (tylko administracja serwera)
 - - Odbieranie przychodzącego połączenia telefonicznego
 = - Odrzucenie przychodzącego połączenia telefonicznego
 BACKSPACE - Cofnięcie / zamknięcie okna UI
@@ -34,7 +31,6 @@ F - Wsiadanie do pojazdu
 G - Naniesienie GPS na mapę podczas otrzymania powiadomienia policyjnego
 H - Światła w pojeździe / hal holowniczy / wysuwanie i chowanie stóp naczepy
 K - opis2
-SHIFT - Sprint
 Z - ID graczy i liczba ludzi na serwerze
 X - Ręce do góry / anulowanie animacji
 C - Spoglądanie do tyłu
@@ -42,7 +38,6 @@ V - Zmiana perspektywy
 B - Pokazanie palcem / zapięcie pasów / uwalnianie się z trytytek
 , - Sygnalizacja dźwiękowa w radiowozach
 . - Wyłączenie sygnalizacji dźwiękowej w radiowozach
-CTRL - Kucanie
 ALT - Oczko interakcji
 INSERT - Powiadomienia policyjne
 PAGE UP - Ustawienia radaru policyjnego (w pojeździe)
